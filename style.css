@@ -99,6 +99,7 @@ button:active {
 div {
     background-color: white;
     height: 40px;
+    width: 30%;
     margin: 10px auto 0;
     border-radius: 5px;
     display: flex;
@@ -107,10 +108,9 @@ div {
     /* visibility: hidden; */
 }
 
-p {
+strong {
     color: var(--color2);
     font-size: 1.3rem;
-    font-weight: 700;
 }
 
 #visible {
